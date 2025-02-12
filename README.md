@@ -1,7 +1,8 @@
 # 3DOS BOT
 
 This script connects to the `api.dashboard.3dos.io` API using multiple accounts, proxies, and keys. It supports authentication via keys from `keygen.txt`, handles cookies dynamically, and works with or without proxies.
-
+## REGISTER
+https://dashboard.3dos.io/register?ref_code=1c744d
 ## Features
 - **Multi-Account Support**: Handles multiple accounts with unique usernames and auth keys.
 - **Dynamic Proxies**: Uses proxies from `proxy.txt` or runs without proxies if none are available.
