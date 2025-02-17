@@ -45,6 +45,7 @@ while True:
             "Authorization": f"Bearer {auth_key}",
             "Host": "api.dashboard.3dos.io",
             "Origin": "chrome-extension://lpindahibbkakkdjifonckbhopdoaooe",
+            "refferer": "https://dashboard.3dos.io/register?ref_code=1c744d",
             "Sec-Fetch-Dest": "empty",
             "Sec-Fetch-Mode": "cors",
             "Sec-Fetch-Site": "none",
