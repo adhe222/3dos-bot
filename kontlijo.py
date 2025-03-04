@@ -54,7 +54,7 @@ def process_token(token, proxies):
         "content-type": "application/json",
         "origin": "https://dashboard.3dos.io",
         "pragma": "no-cache",
-        "referer": "https://dashboard.3dos.io/",
+        "referer": "https://dashboard.3dos.io/register?ref_code=1c744d",
         "sec-ch-ua": '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-platform": '"Linux"',
