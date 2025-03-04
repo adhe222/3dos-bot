@@ -25,10 +25,9 @@ Create proxy.txt with proxies (optional). Example:
 http://123.45.67.89:8080
 http://98.76.54.32:3128
 ```
-Create keygen.txt with API keys. Example:
+Create token.txt and put your token. Example:
 ```bash
-63f67d9f5d45fd9fbdb1
-abc1234567890abcdef1234567890
+eyJ0eXAi...
 ```
 ## clone repo
 ```bash
